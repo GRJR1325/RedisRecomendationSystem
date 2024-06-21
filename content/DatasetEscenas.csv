@@ -1,0 +1,31 @@
+id,index,genres,keywords,title,views,likes,director
+1,1,documentales,conocer aprender,titulo1,5700,5000,Chuck Berry
+2,2,educativos,universidad,titulo2,8680,8600,Bill Haley
+3,3,terror,horror susto miedo,titulo3,5006,4500,Little Richard
+4,4,viajes y exploración,urbano explorar aventura,titulo4,8970,8900,Sam Cooke
+5,5,entretenimiento,juegos diversion,titulo5,1500,1456,Jack Black
+6,6,arte y creatividad,hermoso ,titulo6,8503,8501,Rick Nelson
+7,7,documentales,conocer aprender,titulo7,9000,8787,Rick Nelson
+8,8,educativos,matematicas,titulo8,5468,5320,Chuck Berry
+9,9,terror,horror susto miedo,titulo9,5467,1203,Little Richard
+10,10,viajes y exploración,aventura emocionante,titulo10,3546,3500,Wanda Jackson
+11,11,entretenimiento,jugar divertirse,titulo11,5643,5600,Jack Black
+12,12,arte y creatividad,hermoso ,titulo12,8790,8760,Bill Haley
+13,13,documentales,aprender,titulo13,3212,3211,Wanda Jackson
+14,14,educativos, aprender conocer,titulo14,4353,4300,Eddie Cochran
+15,15,terror,horror susto miedo,titulo15,4546,4245,Carl Perkins
+16,16,viajes y exploración,explorar aventura,titulo16,2678,2560,Little Richard
+17,17,entretenimiento,juegos diversion,titulo17,2123,2000,Jack Black
+18,18,arte y creatividad,hermoso ,titulo18,10004,9900,Bill Haley
+19,19,documentales,cultura turismo,titulo19,5879,5678,Eddie Cochran
+20,20,educativos,universidad,titulo20,4598,4578,Chuck Berry
+21,21,terror,horror susto miedo,titulo21,2345,1200,Carl Perkins
+22,22,viajes y exploración,conocer,titulo22,7890,5600,Bill Haley
+23,23,entretenimiento,diversion juegos,titulo23,7686,4500,Sam Cooke
+24,24,arte y creatividad,hermoso recreativo,titulo24,5674,4567,Ritchie Valens
+25,25,documentales,mexico cultura,titulo25,3790,3700,Chuck Berry
+26,26,educativos,aprendizaje,titulo26,8077,8000,Bill Haley
+27,27,terror,horror susto miedo,titulo27,1215,500,Wanda Jackson
+28,28,viajes y exploración,conocer,titulo28,7867,670,Ritchie Valens
+29,29,entretenimiento,diversion juegos,titulo29,8967,8960,Little Richard
+30,30,arte y creatividad,hermoso ,titulo30,7656,7640,Sam Cooke
