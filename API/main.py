@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 app = FastAPI()
-
+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
 def searchAndRecomendation(sceneTitle):
     # Obtener la ruta del directorio actual
     current_dir = Path(__file__).parent
